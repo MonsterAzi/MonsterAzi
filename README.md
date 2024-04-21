@@ -11,6 +11,7 @@ Projects I contribute to:
 <p align="center">
   <a href="https://github.com/arcee-ai/mergekit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arcee-ai&repo=mergekit&show_icons=true&theme=dracula" alt="Mergekit" align="middle"></a>
 </p>
+
 ## Tech Skills
 
 ## Stats
