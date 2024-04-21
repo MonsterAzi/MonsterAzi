@@ -17,7 +17,7 @@ Projects I contribute to:
 ## Stats
 <p align="center">
   <a href="https://github.com/MonsterAzi"><img src="https://github-readme-stats.vercel.app/api?username=MonsterAzi&show=reviews,discussions_started,discussions_answered,prs_merged_percentage&show_icons=true&theme=dracula" alt="Azazelle Guice's github stats" align="middle"></a>
-  <a href="https://github.com/MonsterAzi"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonsterAzi&show_icons=true&theme=dracula&exclude_repo=Intro-Diagrams" alt="Azazelle Guice's top languages" align="middle"></a>
+  <a href="https://github.com/MonsterAzi"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonsterAzi&show_icons=true&theme=dracula&exclude_repo=Intro-Diagrams&layout=donut-vertical" alt="Azazelle Guice's top languages" align="middle"></a>
 </p>
 
 ## Socials
