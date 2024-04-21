@@ -13,8 +13,9 @@ Projects I contribute to:
 </p>
 
 ## Tech Skills
-
-![Codewars](https://github.r2v.ch/codewars?user=MonsterAzi&top_languages=true&stroke=%23ffffff&theme=gradient_by_level&animation=false)
+<p align="center">
+  <a href="https://www.codewars.com/users/MonsterAzi"><img src="https://github.r2v.ch/codewars?user=MonsterAzi&top_languages=true&stroke=%23ffffff&theme=gradient_by_level&animation=false" alt="Codewars" align="middle"></a>
+</p>
 ## Stats
 <p align="center">
   <a href="https://github.com/MonsterAzi"><img src="https://github-readme-stats.vercel.app/api?username=MonsterAzi&show=reviews,discussions_started,discussions_answered,prs_merged_percentage&show_icons=true&theme=dracula" alt="Azazelle Guice's github stats" align="middle"></a>
