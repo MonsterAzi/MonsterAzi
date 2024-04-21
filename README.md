@@ -5,11 +5,11 @@
 ## Current Projects
 I'm Currently learning:
 
-[![Neural Network Investigations](https://github-readme-stats.vercel.app/api/pin/?username=MonsterAzi&repo=Neural-Investigations)](https://github.com/MonsterAzi/Neural-Investigations)
+[![Neural Network Investigations](https://github-readme-stats.vercel.app/api/pin/?username=MonsterAzi&repo=Neural-Investigations&show_icons=true&theme=dracula)](https://github.com/MonsterAzi/Neural-Investigations)
 
 Projects I contribute to:
 
-[![Mergekit](https://github-readme-stats.vercel.app/api/pin/?username=arcee-ai&repo=mergekit)](https://github.com/arcee-ai/mergekit)
+[![Mergekit](https://github-readme-stats.vercel.app/api/pin/?username=arcee-ai&repo=mergekit&show_icons=true&theme=dracula)](https://github.com/arcee-ai/mergekit)
 ## Tech Skills
 
 ## Stats
