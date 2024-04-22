@@ -13,9 +13,19 @@ Projects I contribute to:
 </p>
 
 ## Tech Skills
+I can use:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
+
+I want to learn:
+
 <p align="center">
   <a href="https://www.codewars.com/users/MonsterAzi"><img src="https://github.r2v.ch/codewars?user=MonsterAzi&top_languages=true&stroke=%23ffffff&theme=gradient_by_level&animation=false" alt="Codewars" align="middle"></a>
 </p>
+
 ## Stats
 <p align="center">
   <a href="https://github.com/MonsterAzi"><img src="https://github-readme-stats.vercel.app/api?username=MonsterAzi&show=reviews,discussions_started,discussions_answered,prs_merged_percentage&show_icons=true&theme=dracula" alt="Azazelle Guice's github stats" align="middle"></a>
