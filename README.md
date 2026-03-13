@@ -3,9 +3,9 @@
 # Who am I?
 
 ## Current Projects
-I'm Currently learning:
+Personal Projects:
 <p align="center">
-  <a href="https://github.com/MonsterAzi/Neural-Investigations"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MonsterAzi&repo=Neural-Investigations&show_icons=true&theme=dracula" alt="Neural Network Investigations" align="middle"></a>
+  <a href="https://github.com/MonsterAzi/SillyTavern-CharacterSimilarity"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MonsterAzi&repo=SillyTavern-CharacterSimilarity&show_icons=true&theme=dracula" alt="Character Similarity Extension" align="middle"></a>
 </p>
 Projects I contribute to:
 <p align="center">
