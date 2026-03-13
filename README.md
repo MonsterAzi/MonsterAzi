@@ -5,6 +5,9 @@ Personal Projects:
 <p align="center">
   <a href="https://github.com/MonsterAzi/SillyTavern-CharacterSimilarity"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MonsterAzi&repo=SillyTavern-CharacterSimilarity&show_icons=true&theme=dracula" alt="Character Similarity Extension" align="middle"></a>
 </p>
+<p align="center">
+  <a href="https://github.com/MonsterAzi/Mario-Kart-Calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MonsterAzi&repo=Mario-Kart-Calculator&show_icons=true&theme=dracula" alt="Mario Kart Calculator" align="middle"></a>
+</p>
 Projects I've contributed to:
 <p align="center">
   <a href="https://github.com/arcee-ai/mergekit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arcee-ai&repo=mergekit&show_icons=true&theme=dracula" alt="Mergekit" align="middle"></a>
