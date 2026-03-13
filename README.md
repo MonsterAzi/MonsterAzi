@@ -12,6 +12,9 @@ Projects I've contributed to:
 <p align="center">
   <a href="https://github.com/tobysimonds/AlphaEvolveWriting"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tobysimonds&repo=AlphaEvolveWriting&show_icons=true&theme=dracula" alt="AlphaEvolveWriting" align="middle"></a>
 </p>
+<p align="center">
+  <a href="https://github.com/kyleliang919/C-Optim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kyleliang919&repo=C-Optim&show_icons=true&theme=dracula" alt="Cautious Momentum Optimizers" align="middle"></a>
+</p>
 
 ## Tech Skills
 I can use:
