@@ -1,49 +1,28 @@
-# Who am I?
+# Azazelle
 
-## Current Projects
-Personal Projects:
-<p align="center">
-  <a href="https://github.com/MonsterAzi/SillyTavern-CharacterSimilarity"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MonsterAzi&repo=SillyTavern-CharacterSimilarity&show_icons=true&theme=dracula" alt="Character Similarity Extension" align="middle"></a>
-  <a href="https://github.com/MonsterAzi/Mario-Kart-Calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MonsterAzi&repo=Mario-Kart-Calculator&show_icons=true&theme=dracula" alt="Mario Kart Calculator" align="middle"></a>
+Data Science student in Dallas (Plano, TX). I mostly spend my time breaking PyTorch optimizers, building frontends for local LLMs, and over-engineering solutions to petty arguments. 
+
+### What I'm working on
+
+**The serious ML stuff:**
+* **[C-Optim](https://github.com/kyleliang919/C-Optim):** Contributed to implementing cautious momentum optimizers. Figured out how to fix C-optim for Muon entirely by accident in my own sandbox.
+* **[mergekit](https://github.com/arcee-ai/mergekit):** Contributed to the toolkit based on insights from reading lots of merging papers.
+* **[AlphaEvolveWriting](https://github.com/tobysimonds/AlphaEvolveWriting):** Worked on an evolutionary system that forces AI stories through ELO tournaments to improve them.
+
+**Local AI & Tools:**
+* **[BunnyTavern](https://github.com/MonsterAzi/BunnyTavern):** A fast, local-first web UI for AI roleplay built on Svelte 5 and Bun. Mostly built it because I want to experiment with it in the future.
+* **[SillyTavern-CharacterSimilarity](https://github.com/MonsterAzi/SillyTavern-CharacterSimilarity):** Uses KoboldCpp's embedding endpoints to run kNN outlier detection and semantic searches on characters. Honestly? My best project.
+
+**Cursed math & spite-driven development:**
+* **[Gradient Descent Vis](https://github.com/MonsterAzi/Gradient_Descent_Vis):** A janky Matplotlib 3D widget I wrote specifically to watch Adam go the wrong direction in real-time.
+* **[Mario-Kart-Calculator](https://github.com/MonsterAzi/Mario-Kart-Calculator):** A linear weighted model built over a weekend purely to find what loadout is good. (It is way out of date now and is kind of oversimplified.)
+
+### The Stack
+* **Daily:** Python, PyTorch, Pandas, NumPy
+* **Currently fighting with:** Rust, Mojo, LaTeX
+
+<br>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MonsterAzi&show=reviews,discussions_started,discussions_answered,prs_merged_percentage&theme=dracula&bg_color=00000000&hide_border=true" alt="Azazelle's stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonsterAzi&theme=dracula&exclude_repo=Intro-Diagrams&layout=donut&bg_color=00000000&hide_border=true" alt="Top languages" height="150">
 </p>
-Projects I've contributed to:
-<p align="center">
-  <a href="https://github.com/arcee-ai/mergekit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arcee-ai&repo=mergekit&show_icons=true&theme=dracula" alt="Mergekit" align="middle"></a>
-  <a href="https://github.com/tobysimonds/AlphaEvolveWriting"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tobysimonds&repo=AlphaEvolveWriting&show_icons=true&theme=dracula" alt="AlphaEvolveWriting" align="middle"></a>
-  <a href="https://github.com/kyleliang919/C-Optim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kyleliang919&repo=C-Optim&show_icons=true&theme=dracula" alt="Cautious Momentum Optimizers" align="middle"></a>
-</p>
-
-## Tech Skills
-I can use:
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-
-I want to learn:
-
-![Mojo](https://img.shields.io/badge/%F0%9F%94%A5%20Mojo-020B14?style=for-the-badge&link=https%3A%2F%2Fwww.modular.com%2Fmax%2Fmojo)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![PyTest](https://img.shields.io/badge/PyTest-lightgray?style=for-the-badge&logo=pytest&logoColor=%230A9EDC)
-
-<p align="center">
-  <a href="https://www.codewars.com/users/MonsterAzi"><img src="https://github.r2v.ch/codewars?user=MonsterAzi&top_languages=true&stroke=%23ffffff&theme=gradient_by_level&animation=false" alt="Codewars" align="middle"></a>
-</p>
-
-## Stats
-<p align="center">
-  <a href="https://github.com/MonsterAzi"><img src="https://github-readme-stats.vercel.app/api?username=MonsterAzi&show=reviews,discussions_started,discussions_answered,prs_merged_percentage&show_icons=true&theme=dracula" alt="Azazelle Guice's github stats" align="middle"></a>
-  <a href="https://github.com/MonsterAzi"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonsterAzi&show_icons=true&theme=dracula&exclude_repo=Intro-Diagrams&layout=donut" alt="Azazelle Guice's top languages" align="middle"></a>
-</p>
-
-## Socials
